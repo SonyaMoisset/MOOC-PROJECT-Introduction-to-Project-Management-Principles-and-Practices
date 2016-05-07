@@ -12,3 +12,4 @@ The first two courses in this Specialization include an orientation to client-si
 ### 07/05/2016
 - Enrolled in the program
 - Finished Week 1 | Get Started! in Course 1 | Initiating and Planning Projects
+- Finished Week 2 | What is a Project? in Course 1 | Initiating and Planning Projects

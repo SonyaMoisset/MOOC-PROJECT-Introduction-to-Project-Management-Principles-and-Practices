@@ -5,3 +5,4 @@ Successful projects require careful upfront planning. In this course, you’ll l
 
 #### Week 1 Get Started!
 #### Week 2 What is a Project?
+#### Week 3 Get to Know your Stakeholders
